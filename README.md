@@ -1,4 +1,4 @@
-<h2>코드이그나이터를 이용한 웹개발 연습</h2>
+<h2>Web Development Exercise using CodeIgniter</h2>
 <ul>
   <li><b>Development Environment</b></li>
   - Framework   :   CodeIgniter(MVC model)<br>
@@ -9,8 +9,8 @@
 </ul>
 <ul>
   <li><b>Description</b></li>
-  : MVC 을 바탕으로 한 Database 연동 웹 구축
+  : Web construction interacting with Database based on MVC model
 </ul>
 <ul>
-  <li>출처 : 생활코딩<br>https://opentutorials.org/course/697/3824</li>
+  <li>Reference : https://opentutorials.org/course/697/3824</li>
 </ul>
