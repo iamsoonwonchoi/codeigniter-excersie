@@ -4,6 +4,6 @@
   - Framework   :   CodeIgniter(MVC model)<br>
   - Language    :   PHP<br>
   - Web Server  :   Apache<br>
-  - Database    :   MySQL
+  - Database    :   MySQL<br>
   - Open Source :   MAMP
 </ul>
