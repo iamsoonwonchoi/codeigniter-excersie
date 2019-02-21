@@ -2,7 +2,7 @@
 <ul>
   <li><b>Development Environment</b></li>
   - Framework   :   CodeIgniter(MVC model)<br>
-  - Language    :   PHP<br>
+  - Language    :   PHP, HTML<br>
   - Web Server  :   Apache<br>
   - Database    :   MySQL<br>
   - Open Source :   MAMP
