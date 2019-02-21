@@ -12,5 +12,5 @@
   : Web construction interacting with Database based on MVC model
 </ul>
 <ul>
-  <li>Reference : https://opentutorials.org/course/697/3824</li>
+  <li><b>Reference</b> : https://opentutorials.org/course/697/3824</li>
 </ul>
